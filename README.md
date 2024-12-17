@@ -3,7 +3,7 @@
 
 ![Movieflix Logo](https://fontmeme.com/permalink/230517/1c1670dd6284f8d01001e1c74b52aae3.png)
 
-[Movieflix GitHub Repository](https://github.com/)  
+[Movieflix GitHub Repository](https://github.com/Sauravv1/movieflixx.git)  
 [View Live Demo](live site link)
 
 ## About The Project
@@ -52,7 +52,7 @@ npm install npm@latest -g
 
 2. Clone the Repository:
    
-   git clone https://github.com/your-username/movieflix.git
+   git clone https://github.com/Sauravv1/movieflixx.git
    
 
 3. Install Dependencies:
