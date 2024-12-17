@@ -4,7 +4,7 @@
 ![Movieflix Logo](https://fontmeme.com/permalink/230517/1c1670dd6284f8d01001e1c74b52aae3.png)
 
 [Movieflix GitHub Repository](https://github.com/Sauravv1/movieflixx.git)  
-[View Live Demo](live site link)
+[View Live Demo](movieflix-web-app-gamma.vercel.app)
 
 ## About The Project
 
